@@ -16,9 +16,9 @@ The Model Predicts Whether A Passenger Would Survive On The Titanic Taking Into 
 ## Program:
 ```
 Developed By Team Members:
-1.A.Sai Bandhavi
+1.N.Niharika
 2.K.Sucharitha
-3.N.Niharika
+3.A.Sai Bandhavi
 ```
 ```
 import numpy as np 
@@ -65,16 +65,28 @@ train_data.head()
 show()
 ```
 ## Output:
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/1.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/2.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/3.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/4.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/5.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/6.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/7.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/8.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/9.png?raw=true)
-![output](https://github.com/Saibandhavi75/Mini-Project--Application-of-NN/blob/main/10.png?raw=true)
+
+![1](https://user-images.githubusercontent.com/94165377/205953026-212c0830-8e00-47ff-b75d-e2a7057bcb25.png)
+![2](https://user-images.githubusercontent.com/94165377/205953067-520de42e-e00b-4e65-a973-53dd0225c5a5.png)
+
+![3](https://user-images.githubusercontent.com/94165377/205953139-bc3c104f-e2de-4e25-b044-ae9108650add.png)
+
+![4](https://user-images.githubusercontent.com/94165377/205953177-d5eeccc6-e1f7-4ddc-a829-b221deeca09c.png)
+
+![5](https://user-images.githubusercontent.com/94165377/205953198-802ef6c3-35d8-4538-8865-4686e76b0ca8.png)
+![6](https://user-images.githubusercontent.com/94165377/205953233-b4f14c77-9b9f-4ffa-b471-effc88f3b4f6.png)
+
+
+![7](https://user-images.githubusercontent.com/94165377/205953273-abceca97-c7d6-4b37-8b48-e6b4037b9481.png)
+![8](https://user-images.githubusercontent.com/94165377/205953304-78214fa2-319e-412d-94db-e4ab0fbf331d.png)
+![9](https://user-images.githubusercontent.com/94165377/205953316-55c601d9-4b96-4b67-9a44-909ffcb7cea5.png)
+
+![10](https://user-images.githubusercontent.com/94165377/205953342-38bbd479-56b6-4940-8be0-cc0a96c878b2.png)
+
+
+
+
+
 ## Advantage :
 Titanic Survival Prediction data set, the main task is to predict whether the passenger will survive or not.By this we can find out the number of members will alive .
 ## Result:
